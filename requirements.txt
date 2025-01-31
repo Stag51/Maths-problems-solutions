@@ -1,0 +1,7 @@
+tensorflow
+numpy
+pandas
+scikit-learn
+streamlit
+streamlit_drawable_canvas
+opencv-python
